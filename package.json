@@ -1,0 +1,19 @@
+{
+  "name": "etracker_db.js",
+  "version": "1.0.0",
+  "description": "Employee tracker",
+  "main": "etracker_db.js",
+  "scripts": {
+    "start": "node etracker_db.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kurtiam",
+  "license": "ISC",
+  "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "chalk": "^4.1.0",
+    "console.table": "^0.10.0",
+    "inquirer": "^7.2.0",
+    "mysql": "^2.18.1"
+  }
+}
