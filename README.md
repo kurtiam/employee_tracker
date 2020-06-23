@@ -9,9 +9,16 @@
 
 ##  Description 
 
- Employee Tracking backend CLI that can add/edit/delete new employees
+Employee Tracking backend CLI using node, inquirer, and MySQL that can:
+- Add departments, roles, employees
+- View departments, roles, employees
+- Update employee roles
+- Update employee managers
+- Delete departments, roles, and employees
 
 Watch the Video Demo here - https://drive.google.com/file/d/12ZZlvpH5D44EWqkedEaq5JKCstYcuLMx/view
+
+![employee-tracker](img/employee_tracker.GIF)
 
 ##  Usage 
 - Clone the repo 
