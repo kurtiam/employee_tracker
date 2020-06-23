@@ -18,7 +18,7 @@ Employee Tracking backend CLI using node, inquirer, and MySQL that can:
 
 Watch the Video Demo here - https://drive.google.com/file/d/12ZZlvpH5D44EWqkedEaq5JKCstYcuLMx/view
 
-![employee-tracker](img/employee_tracker.gif)
+![employee-tracker](employee_tracker.gif)
 
 ##  Usage 
 - Clone the repo 
