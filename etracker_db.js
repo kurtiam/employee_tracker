@@ -139,8 +139,6 @@ const viewByDept = () => {
                 }
             };
 
-            //const byDeptQuery = 'SELECT employee.id As "ID #", employee.first_name AS "First Name", employee.last_name AS "Last Name", role.title AS "Title", department.name AS "Department", role.salary AS "Salary" FROM employee INNER JOIN role role ON role.id = employee.role_id INNER JOIN department ON department.id = role.id WHERE ?;';
-
             const byDeptQuery = `SELECT employee.id As "ID #", 
             employee.first_name AS "First Name",
             employee.last_name AS "Last Name",
