@@ -15,7 +15,7 @@ Employee Tracking backend CLI using node, inquirer, and MySQL that can:
 - Update employee roles
 - Delete departments, roles, and employees
 
-Watch the Video Demo here - https://drive.google.com/file/d/12ZZlvpH5D44EWqkedEaq5JKCstYcuLMx/view
+
 
 ##  Usage 
 - Clone the repo 
