@@ -1,0 +1,25 @@
+:root {
+  color-scheme: light dark;
+}
+
+/* Hide non-subscribe actions on the VF helper page */
+input[type="submit"][value="Assign to Me"],
+input[type="submit"][value="Generate Case Summary"],
+input[type="submit"][name="j_id0:j_id3:j_id8"],
+input[type="submit"][name="j_id0:j_id3:j_id12"] {
+  display: none !important;
+}
+
+/* Center the subscribe button container */
+body {
+  margin: 0 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  min-height: 100vh !important;
+}
+
+div[style*="margin-left"] {
+  margin-left: 0 !important;
+  text-align: center !important;
+}
